@@ -1,0 +1,2 @@
+Hints: Beware of overflow. Use the proper datatype to avoid numeric overflows.
+Overflow occurs for Factorial(n+1) if (Integer.MAX_VALUE / Factorial(n)) < (n+1).
